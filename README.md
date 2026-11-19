@@ -1,4 +1,6 @@
-## Hi there 👋
+## 
+
+![Image alt](https://github.com/Ichorling/Ichorling/blob/86792d977740e4948cc4de9f7bb0c2ebb50f20e2/Untitled%20design%20(2).png)
 
 <!--
 **Ichorling/Ichorling** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
